@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentiment Analysis Result</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/styles.css')}}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/f8f7caf14b.js" crossorigin="anonymous"></script>
+</head>
+<body class="result">
+    <h1 style="font-size:40px;margin-bottom: 10px;">Analysis Result</h1>
+    <p style="font-size: 30px;margin-bottom: 5px;">Text: {{ text }}</p>
+    <p style="font-size: 30px;
+    margin-bottom: 5px;">Sentiment: {{ sentiment }}</p>
+    <p><a class="result-link"href="{{url_for('home')}}">Go back to home page</a></p>
+    <p><a class="result-link"href="{{url_for('sentiment')}}">Go back to sentiment to analyze another review.</a></p>
+</body>
+</html>
