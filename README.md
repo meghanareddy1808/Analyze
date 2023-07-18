@@ -1,18 +1,6 @@
 <h1 align="center">
-             Analyzz
+             Analyzz📈
 </h1>
-
-
-
-
-
-
-
-
-
-
-
-
 The application is used to see the detailed analysis of Zomato Bangalore Restaurants and to perform Sentiment Analysis of Zomato reviews.
 
 There are 3 main sections in the app as follows -
@@ -36,6 +24,9 @@ The home page of the application contains -
   2. <b>Navigation Card containing link to Sentiment Analysis Section</b> - Sentiment analysis of Zomato Reviews.
   3. <b>Navigation Card containing link to Data Analysis of Restaurants Section</b> - Analysis and plots related to restaurants, orders and ratings.
   4. <b>Navigation Card containing link to Top Restaurants Section</b> - Analysis and plots related to Top restaurants and average rating of restaurant types.
+
+Here's the link to the application: https://zomatoanalysis-8807.onrender.com/
+
 ## UI Of The Application
 
 ### 1. Home Page
@@ -61,4 +52,4 @@ The home page of the application contains -
 ### 4. Top Restaurants
 ![Screenshot (119)](https://github.com/meghanareddy1808/Analyze/assets/108571707/4927b426-dd21-443b-b739-07bfecc392c4)
 
-Here's the link to the application: https://zomatoanalysis-8807.onrender.com/
+
