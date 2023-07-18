@@ -2,6 +2,17 @@
              Analyzz
 </h1>
 
+
+
+
+
+
+
+
+
+
+
+
 The application is used to see the detailed analysis of Zomato Bangalore Restaurants and to perform Sentiment Analysis of Zomato reviews.
 
 There are 3 main sections in the app as follows -
@@ -28,22 +39,26 @@ The home page of the application contains -
 ## UI Of The Application
 
 ### 1. Home Page
-<pre>
+![Screenshot (112)](https://github.com/meghanareddy1808/Analyze/assets/108571707/ea21fede-63ad-40b2-b809-3d0450709d39)
 
-</pre>
+![Screenshot (109)](https://github.com/meghanareddy1808/Analyze/assets/108571707/ecbef243-9c1e-43d0-839b-646e460348da)
+
+![Screenshot (111)](https://github.com/meghanareddy1808/Analyze/assets/108571707/2fbd87ef-720b-45bd-a615-94084d0647e0)
+
 
 ### 2. Sentiment Analysis
-<pre>
+![Screenshot (113)](https://github.com/meghanareddy1808/Analyze/assets/108571707/84468d0b-1b72-4c94-ae51-1b1f75f1153a)
 
-</pre>
+![Screenshot (114)](https://github.com/meghanareddy1808/Analyze/assets/108571707/8c03d31c-ab84-43db-9938-a3930c6bb02f)
+
+![Screenshot (115)](https://github.com/meghanareddy1808/Analyze/assets/108571707/58243f59-3bc3-4205-b3e6-134d9c51b6f2)
+
 
 ### 3. Data Analysis of Restaurants
-<pre>
+![Screenshot (116)](https://github.com/meghanareddy1808/Analyze/assets/108571707/ecee0dd5-3591-4906-bc1c-cff4ac21cdd6)
 
-</pre>
 
 ### 4. Top Restaurants
-<pre>
+![Screenshot (119)](https://github.com/meghanareddy1808/Analyze/assets/108571707/4927b426-dd21-443b-b739-07bfecc392c4)
 
-</pre>
 Here's the link to the application: https://zomatoanalysis-8807.onrender.com/
